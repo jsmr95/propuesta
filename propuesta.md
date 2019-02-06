@@ -8,7 +8,11 @@ La aplicación permitirá a un usuario poder informarse sobre cualquier libro o 
 
 ## Funcionalidad principal de la aplicación
 
-La aplicación básicamente se centra en poder informar a un lector (usuario) sobre un determinado ejemplar y/o autor, podrá acceder a toda la información posible de un libro, comentar que le ha parecido tras leerlo, valorarlo, comentar otro comentario de otro lector, ... Con respecto a los autores, tan solo podremos acceder a su información. Los usuarios normales, no podrán insertar, eliminar, modificar ejemplares y autores, ya que podrían generar malas acciones, estas opciones se les otorgará a los usuarios administradores, que serán los usuarios con mas privilegios sobre la aplicación.
+La aplicación básicamente se centra en ofrecer a un lector (usuario) toda la información sobre un determinado ejemplar y/o autor, podrá acceder a una vista personalizado de cualquier libro, comentar que le ha parecido tras leerlo, valorarlo, comentar otro comentario de otro lector, marcarlo como favorito, un usuario podrá modificar su propio perfil, buscar libros por titulo y categoria, ver todos los usuarios registrados, que libros tienen marcados como favoritos,...
+
+Con respecto a los autores, tan solo podremos acceder a su información. Los usuarios normales, no podrán insertar, eliminar, modificar ejemplares y autores, ya que podrían generar malas acciones, estas opciones se les otorgará a los usuarios administradores, que serán los usuarios con mas privilegios sobre la aplicación.
+
+Un administrador podrá otorgar permisos a otro usuario, tambien quitarselos, podrá eliminar cuentas de usuarios conflictivos, banearlos, eliminar comentarios fuera de contexto,...
 
 ## Objetivos generales
 
