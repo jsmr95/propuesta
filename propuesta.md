@@ -10,6 +10,8 @@ La aplicación permitirá a un usuario poder informarse sobre cualquier libro o 
 
 La aplicación básicamente se centra en poder informar a un lector (usuario) sobre un determinado ejemplar y/o autor, podrá acceder a toda la información posible de un libro, comentar que le ha parecido tras leerlo, valorarlo, comentar otro comentario de otro lector, ... Con respecto a los autores, tan solo podremos acceder a su información. Los usuarios normales, no podrán insertar, eliminar, modificar ejemplares y autores, ya que podrían generar malas acciones, estas opciones se les otorgará a los usuarios administradores, que serán los usuarios con mas privilegios sobre la aplicación.
 
+Un administrador podrá otorgar permisos a otro usuario, tambien quitarselos, podrá eliminar cuentas de usuarios conflictivos, eliminar comentarios
+
 ## Objetivos generales
 
 * Gestionar el registro y logueo de usuarios.
