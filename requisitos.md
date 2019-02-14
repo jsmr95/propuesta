@@ -343,6 +343,483 @@
 | **Entrega**     | v1             |
 
 
+| **R39**     | **Registro de un usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe registrar usuarios             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Modificar usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe permitir a cada usuario modificar su perfil personal             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Eliminar usuario**         |
+| --------------: | :------------------- |
+| **Descripción** |  Al eliminar el usuario, se le preguntará si desea eliminar el usuario junto a todos sus datos de interés (comentarios, valoraciones,…)             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Administrar usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá a un administrar borrar, banear o modificar un usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R43**     | **Correo de confirmación**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación enviará un correo de confirmación al usuario registrado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Subir Avatar**         |
+| --------------: | :------------------- |
+| **Descripción** | Cada usuario podrá subir una imagen como avatar             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Ver todos los Usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá ver a todos los usuarios registrados.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Ver Usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá ver el perfil de otro usuario.             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Recuperar Contraseña**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá recuperar su contraseña mediante el envío de un correo electrónico de recuperación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Iniciar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario una vez registrado y con la confirmación de correo, podrá iniciar sesión en la web mediante un formulario donde deberá introducir su usuario y contraseña             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Cerrar sesión**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario que esté con la sesión iniciada podrá cerrarla             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Insertar un libro**         |
+| --------------: | :------------------- |
+| **Descripción** | Un administrador podrá insertar un libro que no exista mediante un formulario y rellenando todos sus atributos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Eliminar un libro**         |
+| --------------: | :------------------- |
+| **Descripción** | Un administrador podrá eliminar un libro que ya exista en la base de datos, si no, dará error.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Modificar un libro**         |
+| --------------: | :------------------- |
+| **Descripción** | Un administrador podrá modificar alguno de los atributos de un libro ya existente             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Insertar un autor**         |
+| --------------: | :------------------- |
+| **Descripción** | Un administrador podrá insertar un autor que no exista en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R54**     | **Eliminar un autor**         |
+| --------------: | :------------------- |
+| **Descripción** | Un administrador podrá eliminar un autor que ya exista en la base de datos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R55**     | **Modificar un autor**         |
+| --------------: | :------------------- |
+| **Descripción** | Un administrador podrá modificar algunos de los atributos de un autor.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R56**     | **Buscar por titulo**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá a un usuario buscar ejemplare por el titulo             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R57**     | **Buscar por género**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá a un usuario buscar ejemplares por el género             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Cambiar a autores**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación tendrá en un menú superior, una pestaña ‘Autores’ donde podremos consultar los autores             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Buscar por nombre**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá a un usuario buscar autores por su nombre             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R60**     | **Ver libro**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe ofrecer toda la información de un libro             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R61**     | **Ver Autor**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe ofrecer toda la información sobre un autor             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R62**     | **Ver Autor desde el libro**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación ofrecerá un enlace al autor desde la vista de un libro, así facilitará al usuario la conexión libro/autor             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R63**     | **Ver libros desde el Autor**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe facilitar todos los libros de un determinado autor, esto se verá en la misma vista de un determinado autor.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R64**     | **Valorar libro**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe permitir valorar un libro por un usuario, para ello debe estar logueado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R65**     | **Comentar libro**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe permitir que un usuario comente un determinado libro, para ello debe estar logueado.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R66**     | **Colocar en Favoritos**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe permitir a un usuario guardar en favoritos un libro que le guste.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R67**     | **Comentar un comentario**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe permitir la comunicación entre usuarios mediante comentarios, no en privado, si no comentando comentarios sobre un libro.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R68**     | **Enlace a compra**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe facilitar al usuario un enlace a una web externa donde le permita la compra del libro.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R69**     | **Indicar el ‘seguimiento’ del libro**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá elegir entre tres etiquetas con respecto a un libro (‘Estoy leyendo’, ‘Me gustaría leerlo’ y ‘Lo he leido’)             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R70**     | **Ver seguimientos**         |
+| --------------: | :------------------- |
+| **Descripción** | En la vista particular de un libro, deberá mostrar cuantos usuarios, están leyendo ese libro, cuantos se lo han leido y ha cuantos le gustaría leerlo.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R71**     | **Ver Usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá ver la información de contacto de otro usuario que esté registrado en la aplicación             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R72**     | **Ver libros de otro usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá a un usuario ver los libros que tiene otro usuario en favoritos             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R73**     | **Ver seguimientos de otro usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe facilitar a un usuario que pueda ver los libros que tiene como objetivo leer, los que ha leido y los que está leyendo otro usuario             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R74**     | **Últimos libros**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación tendrá una pestaña en la barra superior donde podremos ver los últimos lanzamientos             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R75**     | **Último libro**         |
+| --------------: | :------------------- |
+| **Descripción** | En la página principal, donde podemos buscar cualquier libro, en un apartado a la derecha, podemos ver el último libro lanzado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R76**     | **Seguir a Autor**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá que un usuario siga aun autor determinado.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R77**     | **Página oficial**         |
+| --------------: | :------------------- |
+| **Descripción** | En la vista de un autor particular, aparecerá un enlace a la página oficial del autor (si la tuviese)             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R78**     | **Puntuación media**         |
+| --------------: | :------------------- |
+| **Descripción** | Cada libro tendrá su puntuación media, dada por todos los usuarios que lo hayan valorado             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R79**     | **Votados del mes**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación mostrará en su pagina inicial un pequeño top 3 de los más votados ese mes             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R80**     | **Paginar todas las paginas que muestren mas de un elemento**         |
+| --------------: | :------------------- |
+| **Descripción** | Las paginas tales como la principal, la de libros, autores,… tendrán un paginador la cual nos permita mostrar un determinado de elementos fijos en cada página             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R81**     | **Ordenar libros**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá ordenar los libros por el criterio que se quiera             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R82**     | **Ordenar autores**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación permitirá al usuario ordenar los autores por nombre             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R83**     | **Ver libros**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación en su página principal deberá mostrar todos los libros obviamente bien paginados             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R84**     | **Ver Autores**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación debe mostrar todos los autores, no en la página principal, en otra pestaña             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R85**     | **Modelo Libros**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, titulo, ISBN, anyo, sinopsis, url_compra, autor_id, genero_id,             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R86**     | **Modelo Géneros**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, genero             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R87**     | **Modelo Usuarios_id**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, user, email, pass, confirmado             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R88**     | **Modelo Usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, usuario_id. Esto nos servirá para mantener el id del usuario una vez hayamos eliminado un usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R89**     | **Modelo Comentarios**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, usuario_id, libro_id, comentario_id.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R90**     | **Modelo Autor_favorito**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, autor_id, usuario_id.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R91**     | **Modelo Libro_favorito**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, libro_id, usuario_id             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
 
 ## Cuadro resumen
 
@@ -386,3 +863,56 @@
 | (**R36**) Varios navegadores | Mínimo | Técnico | Fácil | v1 |
 | (**R37**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 |
 | (**R38**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 |
+| (**R39**) Registro de un usuario | Mínimo | Funcional | Fácil | v1 |
+| (**R40**) Modificar usuario | Mínimo | Funcional | Fácil | v1 |
+| (**R41**) Eliminar usuario | Mínimo | Funcional | Fácil | v1 |
+| (**R42**) Administrar usuarios | Importante | Funcional | Media | v3 |
+| (**R43**) Correo de confirmación | Importante | Funcional | Media | v1 |
+| (**R44**) Subir Avatar | Opcional | Funcional | Media | v1 |
+| (**R45**) Ver todos los Usuarios | Mínimo | Funcional | Fácil | v1 |
+| (**R46**) Ver Usuario | Mínimo | Funcional | Fácil | v1 |
+| (**R47**) Recuperar Contraseña | Importante | Funcional | Media | v1 |
+| (**R48**) Iniciar sesión | Mínimo | Funcional | Fácil | v1 |
+| (**R49**) Cerrar sesión | Mínimo | Funcional | Fácil | v1 |
+| (**R50**) Insertar un libro | Importante | Funcional | Fácil | v1 |
+| (**R51**) Eliminar un libro | Importante | Funcional | Fácil | v1 |
+| (**R52**) Modificar un libro | Importante | Funcional | Fácil | v1 |
+| (**R53**) Insertar un autor | Importante | Funcional | Fácil | v1 |
+| (**R54**) Eliminar un autor | Importante | Funcional | Fácil | v1 |
+| (**R55**) Modificar un autor | Importante | Funcional | Fácil | v1 |
+| (**R56**) Buscar por titulo | Mínimo | Funcional | Fácil | v1 |
+| (**R57**) Buscar por género | Mínimo | Funcional | Fácil | v1 |
+| (**R58**) Cambiar a autores | Mínimo | Funcional | Fácil | v1 |
+| (**R59**) Buscar por nombre | Importante | Funcional | Fácil | v1 |
+| (**R60**) Ver libro | Mínimo | Funcional | Media | v2 |
+| (**R61**) Ver Autor | Mínimo | Funcional | Media | v2 |
+| (**R62**) Ver Autor desde el libro | Importante | Funcional | Media | v2 |
+| (**R63**) Ver libros desde el Autor | Importante | Funcional | Media | v2 |
+| (**R64**) Valorar libro | Importante | Funcional | Fácil | v2 |
+| (**R65**) Comentar libro | Importante | Funcional | Media | v2 |
+| (**R66**) Colocar en Favoritos | Opcional | Funcional | Fácil | v2 |
+| (**R67**) Comentar un comentario | Importante | Funcional | Media | v2 |
+| (**R68**) Enlace a compra | Opcional | Funcional | Media | v2 |
+| (**R69**) Indicar el ‘seguimiento’ del libro | Importante | Funcional | Media | v2 |
+| (**R70**) Ver seguimientos | Importante | Funcional | Media | v2 |
+| (**R71**) Ver Usuario | Importante | Funcional | Media | v2 |
+| (**R72**) Ver libros de otro usuario | Mínimo | Funcional | Fácil | v1 |
+| (**R73**) Ver seguimientos de otro usuario | Importante | Funcional | Media | v2 |
+| (**R74**) Últimos libros | Importante | Funcional | Media | v2 |
+| (**R75**) Último libro | Importante | Funcional | Fácil | v1 |
+| (**R76**) Seguir a Autor | Opcional | Funcional | Fácil | v2 |
+| (**R77**) Página oficial | Mínimo | Funcional | Fácil | v2 |
+| (**R78**) Puntuación media | Mínimo | Funcional | Fácil | v1 |
+| (**R79**) Votados del mes | Opcional | Funcional | Fácil | v2 |
+| (**R80**) Paginar todas las paginas que muestren mas de un elemento | Importante | Funcional | Fácil | v1 |
+| (**R81**) Ordenar libros | Importante | Funcional | Fácil | v1 |
+| (**R82**) Ordenar autores | Importante | Funcional | Fácil | v1 |
+| (**R83**) Ver libros | Importante | Funcional | Fácil | v1 |
+| (**R84**) Ver Autores | Importante | Funcional | Fácil | v1 |
+| (**R85**) Modelo Libros | Importante | Información | Fácil | v1 |
+| (**R86**) Modelo Géneros | Importante | Información | Fácil | v1 |
+| (**R87**) Modelo Usuarios_id | Importante | Información | Fácil | v1 |
+| (**R88**) Modelo Usuarios | Importante | Información | Fácil | v1 |
+| (**R89**) Modelo Comentarios | Importante | Información | Fácil | v1 |
+| (**R90**) Modelo Autor_favorito | Importante | Información | Fácil | v1 |
+| (**R91**) Modelo Libro_favorito | Importante | Información | Fácil | v1 |
