@@ -538,7 +538,7 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
-| **Entrega**     | v2             |
+| **Entrega**     | v1             |
 
 
 | **R61**     | **Ver Autor**         |
@@ -547,7 +547,7 @@
 | **Prioridad**   | Mínimo           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
-| **Entrega**     | v2             |
+| **Entrega**     | v1             |
 
 
 | **R62**     | **Ver Autor desde el libro**         |
@@ -556,7 +556,7 @@
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
-| **Entrega**     | v2             |
+| **Entrega**     | v1             |
 
 
 | **R63**     | **Ver libros desde el Autor**         |
@@ -565,7 +565,7 @@
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
-| **Entrega**     | v2             |
+| **Entrega**     | v1             |
 
 
 | **R64**     | **Valorar libro**         |
@@ -574,7 +574,7 @@
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v2             |
+| **Entrega**     | v3             |
 
 
 | **R65**     | **Comentar libro**         |
@@ -592,7 +592,7 @@
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v2             |
+| **Entrega**     | v1             |
 
 
 | **R67**     | **Comentar un comentario**         |
@@ -610,7 +610,7 @@
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
-| **Entrega**     | v2             |
+| **Entrega**     | v1             |
 
 
 | **R69**     | **Indicar el ‘seguimiento’ del libro**         |
@@ -637,7 +637,7 @@
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
-| **Entrega**     | v2             |
+| **Entrega**     | v1             |
 
 
 | **R72**     | **Ver libros de otro usuario**         |
@@ -664,7 +664,7 @@
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Media         |
-| **Entrega**     | v2             |
+| **Entrega**     | v3             |
 
 
 | **R75**     | **Último libro**         |
@@ -673,7 +673,7 @@
 | **Prioridad**   | Importante           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v1             |
+| **Entrega**     | v3             |
 
 
 | **R76**     | **Seguir a Autor**         |
@@ -709,7 +709,7 @@
 | **Prioridad**   | Opcional           |
 | **Tipo**        | Funcional                |
 | **Complejidad** | Fácil         |
-| **Entrega**     | v2             |
+| **Entrega**     | v3             |
 
 
 | **R80**     | **Paginar todas las paginas que muestren mas de un elemento**         |
@@ -820,6 +820,159 @@
 | **Entrega**     | v1             |
 
 
+| **R92**     | **Modelo Estado**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, usuario_id, contenido,…             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R93**     | **Modelo Estado_favorito**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, usuario_id, estado_id             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R94**     | **Modelo Estado_Lyb**         |
+| --------------: | :------------------- |
+| **Descripción** | Introducir los modelos/controladores/vistas necesarias para poder realizar las acciones necesarias. Attr: id, usuario_id, estado_id.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R95**     | **Pestaña Social**         |
+| --------------: | :------------------- |
+| **Descripción** | En esta pestaña podremos publicar lo que queramos relacionado con la literatura             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R96**     | **Publicar post**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá postear algún tema relacionado con algún libro, autor, alguna experiencia, conocimiento,…             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R97**     | **Estado personal**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario dentro de la pestaña social, podrá mostrar un pequeño estado personal, alguna frase, …             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R98**     | **Seguir a Usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá seguir a otro usuario, para poder ver su actividad en la aplicación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R99**     | **Dar Lyb**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá hacer Lyb sobre otro post. Todos los posts de los usuarios que tu sigas aparecerán en tu feed incluidos los lybs que, los usuarios a los que sigas, hagan.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R100**     | **Compartir**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá compartir un libro, autor o un determinado post             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R101**     | **Me gusta post**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá dar me gusta a un post de cualquier usuario             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R102**     | **Buscar post**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá buscar un post por frase que contenga su titulo             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R103**     | **Ver me gustas**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá ver sus me gustas dentro de su perfil             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R104**     | **Ver mis Lybs**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá ver sus Lybs dentro de su perfil             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R105**     | **Comentar un Post**         |
+| --------------: | :------------------- |
+| **Descripción** | Un usuario podrá comentar un post de otro usuario o inclusive uno suyo propio             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R106**     | **Ver interacciones**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación proporcionará al usuario sus interacciones, los Lybs que le hacen, le muestra si un usuario le da me gusta a uno de sus posts, …             |
+| **Prioridad**   | Mínimo           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R107**     | **Generar post automáticamente**         |
+| --------------: | :------------------- |
+| **Descripción** | La aplicación deberá generar un post automáticamente en la feed del usuario y de aquellos que sigan a este, cuando este usuario marque como leido algún libro             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v2             |
+
+
+| **R108**     | **Gestionar posts**         |
+| --------------: | :------------------- |
+| **Descripción** | Un administrador podrá administrar los posts para evitar malas acciones             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -884,26 +1037,26 @@
 | (**R57**) Buscar por género | Mínimo | Funcional | Fácil | v1 |
 | (**R58**) Cambiar a autores | Mínimo | Funcional | Fácil | v1 |
 | (**R59**) Buscar por nombre | Importante | Funcional | Fácil | v1 |
-| (**R60**) Ver libro | Mínimo | Funcional | Media | v2 |
-| (**R61**) Ver Autor | Mínimo | Funcional | Media | v2 |
-| (**R62**) Ver Autor desde el libro | Importante | Funcional | Media | v2 |
-| (**R63**) Ver libros desde el Autor | Importante | Funcional | Media | v2 |
-| (**R64**) Valorar libro | Importante | Funcional | Fácil | v2 |
+| (**R60**) Ver libro | Mínimo | Funcional | Media | v1 |
+| (**R61**) Ver Autor | Mínimo | Funcional | Media | v1 |
+| (**R62**) Ver Autor desde el libro | Importante | Funcional | Media | v1 |
+| (**R63**) Ver libros desde el Autor | Importante | Funcional | Media | v1 |
+| (**R64**) Valorar libro | Importante | Funcional | Fácil | v3 |
 | (**R65**) Comentar libro | Importante | Funcional | Media | v2 |
-| (**R66**) Colocar en Favoritos | Opcional | Funcional | Fácil | v2 |
+| (**R66**) Colocar en Favoritos | Opcional | Funcional | Fácil | v1 |
 | (**R67**) Comentar un comentario | Importante | Funcional | Media | v2 |
-| (**R68**) Enlace a compra | Opcional | Funcional | Media | v2 |
+| (**R68**) Enlace a compra | Opcional | Funcional | Media | v1 |
 | (**R69**) Indicar el ‘seguimiento’ del libro | Importante | Funcional | Media | v2 |
 | (**R70**) Ver seguimientos | Importante | Funcional | Media | v2 |
-| (**R71**) Ver Usuario | Importante | Funcional | Media | v2 |
+| (**R71**) Ver Usuario | Importante | Funcional | Media | v1 |
 | (**R72**) Ver libros de otro usuario | Mínimo | Funcional | Fácil | v1 |
 | (**R73**) Ver seguimientos de otro usuario | Importante | Funcional | Media | v2 |
-| (**R74**) Últimos libros | Importante | Funcional | Media | v2 |
-| (**R75**) Último libro | Importante | Funcional | Fácil | v1 |
+| (**R74**) Últimos libros | Importante | Funcional | Media | v3 |
+| (**R75**) Último libro | Importante | Funcional | Fácil | v3 |
 | (**R76**) Seguir a Autor | Opcional | Funcional | Fácil | v2 |
 | (**R77**) Página oficial | Mínimo | Funcional | Fácil | v2 |
 | (**R78**) Puntuación media | Mínimo | Funcional | Fácil | v1 |
-| (**R79**) Votados del mes | Opcional | Funcional | Fácil | v2 |
+| (**R79**) Votados del mes | Opcional | Funcional | Fácil | v3 |
 | (**R80**) Paginar todas las paginas que muestren mas de un elemento | Importante | Funcional | Fácil | v1 |
 | (**R81**) Ordenar libros | Importante | Funcional | Fácil | v1 |
 | (**R82**) Ordenar autores | Importante | Funcional | Fácil | v1 |
@@ -916,3 +1069,20 @@
 | (**R89**) Modelo Comentarios | Importante | Información | Fácil | v1 |
 | (**R90**) Modelo Autor_favorito | Importante | Información | Fácil | v1 |
 | (**R91**) Modelo Libro_favorito | Importante | Información | Fácil | v1 |
+| (**R92**) Modelo Estado | Importante | Información | Fácil | v1 |
+| (**R93**) Modelo Estado_favorito | Importante | Información | Fácil | v1 |
+| (**R94**) Modelo Estado_Lyb | Importante | Información | Fácil | v1 |
+| (**R95**) Pestaña Social | Importante | Funcional | Fácil | v1 |
+| (**R96**) Publicar post | Importante | Funcional | Media | v2 |
+| (**R97**) Estado personal | Opcional | Funcional | Fácil | v2 |
+| (**R98**) Seguir a Usuario | Importante | Funcional | Fácil | v1 |
+| (**R99**) Dar Lyb | Importante | Funcional | Media | v2 |
+| (**R100**) Compartir | Mínimo | Funcional | Media | v2 |
+| (**R101**) Me gusta post | Mínimo | Funcional | Fácil | v2 |
+| (**R102**) Buscar post | Mínimo | Funcional | Fácil | v2 |
+| (**R103**) Ver me gustas | Mínimo | Funcional | Fácil | v2 |
+| (**R104**) Ver mis Lybs | Mínimo | Funcional | Fácil | v2 |
+| (**R105**) Comentar un Post | Mínimo | Funcional | Fácil | v2 |
+| (**R106**) Ver interacciones | Mínimo | Funcional | Fácil | v3 |
+| (**R107**) Generar post automáticamente | Importante | Funcional | Difícil | v2 |
+| (**R108**) Gestionar posts | Importante | Funcional | Media | v3 |
