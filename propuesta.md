@@ -16,6 +16,8 @@ Con respecto a los autores, tan solo podremos acceder a su información. Los usu
 
 Un administrador podrá otorgar permisos a otro usuario, tambien quitarselos, podrá eliminar cuentas de usuarios conflictivos, banearlos, eliminar comentarios fuera de contexto,...
 
+En definitiva la aplicación ofrecerá un apartado de consultas sobre libros y autores (habrán dos pestañas para ello) y por otro lado ofrecerá una especie de red social especifica para los amantes de los libros (una tercera pestaña), donde podrán postear, compartir, mencionar, ...
+
 ## Objetivos generales
 
 * Gestionar el registro y logueo de usuarios.
@@ -24,7 +26,7 @@ Un administrador podrá otorgar permisos a otro usuario, tambien quitarselos, po
 * Gestionar las valoraciones de los usuarios.
 * Un administrador podrá modificar los permisos de un usuario que no sea 'admin'.
 * Gestionar la subida de archivos como por ejemplo el avatar de un usuario.
-* Cada usuario podrá gestionar su feed personal, sus 'Lryb' que llamaremos (haciendo similitud a los tweets en Twitter)
+* Cada usuario podrá gestionar su feed personal, sus 'Lyb' que llamaremos (haciendo similitud a los tweets en Twitter)
 
 # Elemento de innovación
 
