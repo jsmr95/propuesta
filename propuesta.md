@@ -16,6 +16,8 @@ Con respecto a los autores, tan solo podremos acceder a su información. Los usu
 
 Un administrador podrá otorgar permisos a otro usuario, tambien quitarselos, podrá eliminar cuentas de usuarios conflictivos, banearlos, eliminar comentarios fuera de contexto,...
 
+En definitiva la aplicación ofrecerá un apartado de consultas sobre libros y autores (habrán dos pestañas para ello) y por otro lado ofrecerá una especie de red social especifica para los amantes de los libros (una tercera pestaña), donde podrán postear, compartir, mencionar, ...
+
 ## Objetivos generales
 
 * Gestionar el registro y logueo de usuarios.
