@@ -24,7 +24,7 @@ Un administrador podrá otorgar permisos a otro usuario, tambien quitarselos, po
 * Gestionar las valoraciones de los usuarios.
 * Un administrador podrá modificar los permisos de un usuario que no sea 'admin'.
 * Gestionar la subida de archivos como por ejemplo el avatar de un usuario.
-* Cada usuario podrá gestionar su feed personal, sus 'Lryb' que llamaremos (haciendo similitud a los tweets en Twitter)
+* Cada usuario podrá gestionar su feed personal, sus 'Lyb' que llamaremos (haciendo similitud a los tweets en Twitter)
 
 # Elemento de innovación
 
